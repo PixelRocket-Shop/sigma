@@ -6,7 +6,7 @@ The template's clean and minimal design means it's easy to modify and painless t
 
 <strong><a href="https://sigma-html-bootstrap.vercel.app/">View Demo</a> | <a href="https://github.com/PixelRocket-Shop/sigma-html-bootstrap/archive/main.zip">Download ZIP</a></strong>
 
-![Bootstrap 5 Responsive HTML Business Template](https://pixelrocket-public-assets.s3.eu-west-2.amazonaws.com/github-assets/sigma-html/homepage-medium.jpg "Sigma | Responsive Bootstrap 5 Business Template")
+![Bootstrap 5 Responsive HTML Business Template](https://pixelrocket-public-assets.s3.eu-west-2.amazonaws.com/github-assets/sigma-html/homepage.jpg "Sigma | Responsive Bootstrap 5 Business Template")
 
 ## Table of contents
 
