@@ -1,0 +1,28 @@
+{{# if (config logos)}}
+<section class="marquee marquee-hover-pause">
+    <div class="marquee-body">
+        <div class="marquee-section animation-marquee-90">
+            {{#each logos.entries}}
+            <div class="mx-5 f-w-24">
+                <a class="d-block" href="#" data-bs-toggle="tooltip" data-bs-placement="top" title="{{name}}">
+                    <picture>
+                        <img class="img-fluid d-table mx-auto" src="{{ img }}" alt="{{ config.defaultImgAlt }}">
+                    </picture>
+                </a>
+            </div>
+            {{/each}}
+        </div>
+        <div class="marquee-section animation-marquee-90">
+            {{#each logos.entries}}
+            <div class="mx-5 f-w-24">
+                <a class="d-block" href="#" data-bs-toggle="tooltip" data-bs-placement="top" title="{{name}}">
+                    <picture>
+                        <img class="img-fluid d-table mx-auto" src="{{ img }}" alt="{{ config.defaultImgAlt }}">
+                    </picture>
+                </a>
+            </div>
+            {{/each}}
+        </div>
+    </div>
+</section>
+{{/if}}

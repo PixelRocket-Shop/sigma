@@ -1,0 +1,30 @@
+<!-- Start Video Modal-->
+<div class="modal fade modal-video"
+    id="videoIframeModal"
+    tabindex="-1"
+    aria-hidden="true">
+    <div class="modal-dialog modal-lg modal-dialog-centered">
+        <div class="modal-content">
+            <!-- Modal Content-->
+            <div class="modal-body p-0">
+                <button type="button"
+                class="btn btn-link text-decoration-none text-white opacity-75-hover transition-all position-absolute end-0 top-0 z-index-20"
+                data-bs-dismiss="modal"
+                aria-label="Close"><i class="ri-close-fill"></i></button>
+
+                <!-- Plyr HTML-->
+                <div id="player" class="modal-video-player plyr__video-embed">
+                    <iframe
+                    src=""
+                    allowfullscreen
+                    allowtransparency
+                    allow="autoplay"
+                  ></iframe>
+                </div>
+                <!--/ Plyr HTML-->
+            </div>
+            <!-- / Modal Content-->
+        </div>
+    </div>
+</div>
+<!--/ Video Modal -->

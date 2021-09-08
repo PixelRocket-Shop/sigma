@@ -1,0 +1,68 @@
+/* Custom font face */
+@font-face {
+    font-family: 'Metropolis';
+    src: url('../fonts/Metropolis-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: auto;
+}
+
+@font-face {
+    font-family: 'Metropolis';
+    src: url('../fonts/Metropolis-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: auto;
+}
+
+@font-face {
+    font-family: 'Metropolis';
+    src: url('../fonts/Metropolis-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: auto;
+}
+
+@font-face {
+    font-family: 'Metropolis';
+    src: url('../fonts/Metropolis-Bold.woff') format('woff');
+    font-weight: 700;
+    font-style: normal;
+    font-display: auto;
+}
+
+@font-face {
+    font-family: 'Metropolis';
+    src: url('../fonts/Metropolis-Black.woff') format('woff');
+    font-weight: 800;
+    font-style: normal;
+}
+
+
+/* generic site wide styles*/
+body {
+    overflow-x: hidden;
+}
+
+/* disable pointer events */
+.disable-child-pointer * {
+    pointer-events: none;
+}
+
+/* text link cover full area. Used mostly with cards */
+.link-cover {
+    &:after {
+      position: absolute;
+      top: 0;
+      right: 0;
+      bottom: 0;
+      left: 0;
+      z-index: 30;
+      pointer-events: auto;
+      content: "";
+    }
+}
+
+.btn:focus, button:focus, input:focus, .navbar-toggler:focus {
+    box-shadow: none;
+}

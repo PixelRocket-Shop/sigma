@@ -1,0 +1,12 @@
+.tooltip-trigger {
+    position: relative;
+
+    &:after {
+        width: 100%;
+        content: "";
+        display: block;
+        position: absolute;
+        bottom: -.15rem;
+        border-bottom: 1px dashed $gray-400;
+    }
+}

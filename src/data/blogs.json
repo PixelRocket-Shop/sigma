@@ -1,0 +1,16 @@
+{
+    "entries": [
+        {
+            "img": "{{webRoot}}/assets/images/blog-one.jpeg",
+            "title": "The ultimate guide to event project management"
+        },
+        {
+            "img": "{{webRoot}}/assets/images/blog-two.jpeg",
+            "title": "How to use Agile to implement Scrum method"
+        },
+        {
+            "img": "{{webRoot}}/assets/images/blog-three.jpeg",
+            "title": "What is the best software version control?"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "defaultPageTitle": "Bootstrap 5 HTML Template",
+    "templateName": "Sigma",
+    "classes": {
+        "body": "",
+        "navbar": "",
+        "content": "",
+        "footer": ""
+    },
+    "partials": {
+        "head": "head/head",
+        "navbar": "navbar/navbar-primary",
+        "footer": "footer/footer"
+    },
+    "defaultImgAlt": "HTML Bootstrap Template by Pixel Rocket",
+    "helpDocsURL": "",
+    "demoURL": ""
+}

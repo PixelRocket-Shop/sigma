@@ -1,0 +1,21 @@
+.nav-link {
+    margin-left: 1.5rem;
+    margin-right: 1.5rem;
+}
+
+/* on body scroll transition */
+/* we use a CSS class added by JS after page load to avoid content shifting during page load */
+.page-loaded .navbar.fixed-top {
+    transition: padding .2s cubic-bezier(.42,0,.58,1);
+}
+
+.is-scrolling .navbar.fixed-top {
+    padding-top: .65rem;
+    padding-bottom: .65rem;
+    box-shadow: $box-shadow-lg;
+
+    .btn {
+        padding-top: .75rem;
+        padding-bottom: .75rem;
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "entries": [
+        {
+            "img": "{{webRoot}}/assets/images/logos/logo-9.svg",
+            "name": "Figma",
+            "description": "Sync your landing page with Figma and open the design as a Figma file."
+        },
+        {
+            "img": "{{webRoot}}/assets/images/logos/logo-10.svg",
+            "name": "Sketch",
+            "description": "Send your designs to Sketch, open the design directly or download as Sketch file."
+        },
+        {
+            "img": "{{webRoot}}/assets/images/logos/logo-11.svg",
+            "name": "Adobe XD",
+            "description": "Open your landing page with XD, sync the design directly or download as XD file."
+        },
+        {
+            "img": "{{webRoot}}/assets/images/logos/logo-12.svg",
+            "name": "Netlify",
+            "description": "Convert your landing page design to HTML and host with Netlify with a click of a button."
+        },
+        {
+            "img": "{{webRoot}}/assets/images/logos/logo-13.svg",
+            "name": "Dropbox",
+            "description": "Backup your Sigma files directly to your Dropbox account with a single action."
+        },
+        {
+            "img": "{{webRoot}}/assets/images/logos/logo-14.svg",
+            "name": "Gitlab",
+            "description": "Automatically track commits, merges and pull requests with our activity feed."
+        }
+    ]
+}

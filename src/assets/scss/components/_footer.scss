@@ -1,0 +1,19 @@
+.footer-nav {
+
+    margin-top: 1.5rem;
+
+    li {
+        margin-bottom: .35rem;
+
+        a {
+            color: rgba(255,255,255, .85);
+            transition: color ease-in .3s;
+            font-size: 1.025rem;
+
+            &:hover {
+                text-decoration: none;
+                color: $primary;
+            }
+        }
+    }
+}

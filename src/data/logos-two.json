@@ -1,0 +1,22 @@
+{
+    "entries": [
+        {
+            "img": "{{webRoot}}/assets/images/logos/logo-17.svg"
+        },
+        {
+            "img": "{{webRoot}}/assets/images/logos/logo-18.svg"
+        },
+        {
+            "img": "{{webRoot}}/assets/images/logos/logo-19.svg"
+        },
+        {
+            "img": "{{webRoot}}/assets/images/logos/logo-20.svg"
+        },
+        {
+            "img": "{{webRoot}}/assets/images/logos/logo-21.svg"
+        },
+        {
+            "img": "{{webRoot}}/assets/images/logos/logo-22.svg"
+        }
+    ]
+}

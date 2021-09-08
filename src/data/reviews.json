@@ -1,0 +1,52 @@
+{
+    "entries": [
+        {
+            "quote": "Just amazed at how easy to use Sigma is. Really saved us a heap of time.",
+            "img": "{{webRoot}}/assets/images/logos/logo-15.svg",
+            "avatar": "{{webRoot}}/assets/images/profile-small-2.jpeg",
+            "name": "Joe Smithy"
+        },
+        {
+            "quote": "What a great way to shave days off our next product launch!",
+            "img": "{{webRoot}}/assets/images/logos/logo-16.svg",
+            "avatar": "{{webRoot}}/assets/images/profile-small-3.jpeg",
+            "name": "Patrick Johnson"
+        },
+        {
+            "quote": "Spent a lot of time using Sigma the past few weeks...love it!",
+            "img": "{{webRoot}}/assets/images/logos/logo-17.svg",
+            "avatar": "{{webRoot}}/assets/images/profile-small-4.jpeg",
+            "name": "Sally Klein"
+        },
+        {
+            "quote": "This is great value for money when you factor in the time saved",
+            "img": "{{webRoot}}/assets/images/logos/logo-18.svg",
+            "avatar": "{{webRoot}}/assets/images/profile-small-5.jpeg",
+            "name": "Rohit Sharma"
+        },
+        {
+            "quote": "Still amazed at how easy to use Sigma is...just great.",
+            "img": "{{webRoot}}/assets/images/logos/logo-19.svg",
+            "avatar": "{{webRoot}}/assets/images/profile-small-6.jpeg",
+            "name": "Jeff Waite"
+        },
+        {
+            "quote": "Signed up last week - blown away at how easy it was to build our first landing page",
+            "img": "{{webRoot}}/assets/images/logos/logo-20.svg",
+            "avatar": "{{webRoot}}/assets/images/profile-small-7.jpeg",
+            "name": "Kinsta Troy"
+        },
+        {
+            "quote": "The one-click integration with our hosting company is a life-saver",
+            "img": "{{webRoot}}/assets/images/logos/logo-21.svg",
+            "avatar": "{{webRoot}}/assets/images/profile-small-2.jpeg",
+            "name": "Fred Couples"
+        },
+        {
+            "quote": "Hooked. Can't live without it now!",
+            "img": "{{webRoot}}/assets/images/logos/logo-22.svg",
+            "avatar": "{{webRoot}}/assets/images/profile-small.jpeg",
+            "name": "Sam Nelson"
+        }
+    ]
+}
