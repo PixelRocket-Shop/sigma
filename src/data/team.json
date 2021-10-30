@@ -1,0 +1,40 @@
+{
+    "entries": [
+        {
+            "img": "{{webRoot}}/assets/images/profile-small-2.jpeg",
+            "name": "Jack Johnston",
+            "title": "Founder & CEO",
+            "bio": "Serial angel investor and entrepreneur, Jack has founded multiple successful startups prior to Sigma."
+        },
+        {
+            "img": "{{webRoot}}/assets/images/profile-small-3.jpeg",
+            "name": "JP Laurent",
+            "title": "Executive Chairman",
+            "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas quis tortor sed neque pellentesque."
+        },
+        {
+            "img": "{{webRoot}}/assets/images/profile-small-4.jpeg",
+            "name": "Gary Waite",
+            "title": "Founder & CTO",
+            "bio": "Mauris consequat sodales dolor, eu iaculis tortor efficitur vel. Mauris sed felis augue argum felis."
+        },
+        {
+            "img": "{{webRoot}}/assets/images/profile-small-5.jpeg",
+            "name": "Patrica Smith",
+            "title": "VP Marketing",
+            "bio": "Nullam faucibus placerat vestibulum. Vivamus blandit risus a ligula efficitur tincidunt."
+        },
+        {
+            "img": "{{webRoot}}/assets/images/profile-small-6.jpeg",
+            "name": "Samanth Rowson",
+            "title": "Head Designer",
+            "bio": "Vestibulum fermentum urna sit amet dolor rutrum, non consequat velit vehicula. Proin sed consequat diam."
+        },
+        {
+            "img": "{{webRoot}}/assets/images/profile-small-7.jpeg",
+            "name": "Jack Smith",
+            "title": "Technical Lead",
+            "bio": "Sed venenatis ligula tortor, vel pharetra massa convallis a. Ut bibendum porttitor nisi ornare."
+        }
+    ]
+}
