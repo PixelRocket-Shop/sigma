@@ -41,10 +41,12 @@ Most developers will be editing the source code and will also be running Webpack
 
 
 ## Template Pages
-The template consists of 2 pages:
+The template consists of 4 pages:
 
 * Homepage
 * Pricing page
+* About us page
+* Contact us page
 
 To keep code repetition to a minimum, we've used Handlebars.js as the templating engine and partials to quickly add the same code to different pages. We also use a Handlebars plugin for JSON data - this allows us to use loops and output a single HTML code block instead of repeating the same HTML.
 
