@@ -4,7 +4,7 @@
 Sigma is a responsive HTML Bootstrap 5 business or marketing template that will help you convert more of your visitors into customers. It can work well as a simple business website or a landing page for a SAAS application.
 The template's clean and minimal design means it's easy to modify and painless to integrate with your custom application. And above all, it's free.
 
-<strong><a href="https://sigma-html-bootstrap.vercel.app/">View Demo</a> | <a href="https://github.com/PixelRocket-Shop/sigma-html-bootstrap/archive/main.zip">Download ZIP</a></strong>
+<strong><a href="https://sigma.vercel.app/">View Demo</a> | <a href="https://github.com/PixelRocket-Shop/sigma/archive/main.zip">Download ZIP</a></strong>
 
 ![Bootstrap 5 Responsive HTML Business Template](https://pixelrocket-public-assets.s3.eu-west-2.amazonaws.com/github-assets/sigma-html/homepage.jpg "Sigma | Responsive Bootstrap 5 Business Template")
 
@@ -32,7 +32,7 @@ Most developers will be editing the source code and will also be running Webpack
 
 
 ## Quick Start
-- [Download the latest release](https://github.com/PixelRocket-Shop/sigma-html-bootstrap/archive/main.zip) OR clone the repo: `git clone https://github.com/PixelRocket-Shop/sigma-html-bootstrap.git`
+- [Download the latest release](https://github.com/PixelRocket-Shop/sigma/archive/main.zip) OR clone the repo: `git clone https://github.com/PixelRocket-Shop/sigma.git`
 - Install Node.js if you don't already have it on your system.
 - Open the project root in your command line.
 - run `npm install` in your command line.
@@ -52,7 +52,7 @@ To keep code repetition to a minimum, we've used Handlebars.js as the templating
 
 
 ## Demo Link
-[Demo URL](https://sigma-html-bootstrap.vercel.app/)
+[Demo URL](https://sigma.vercel.app/)
 
 **Please note that this is an HTML template only. It does not connect to a database, and will not automatically work in a content management system (Wordpress etc). You will need to incorporate our code into your application.**
 
