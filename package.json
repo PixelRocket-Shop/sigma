@@ -40,7 +40,7 @@
     "dependencies": {
         "@popperjs/core": "^2.5.4",
         "aos": "^2.3.4",
-        "bootstrap": "^5.0.0-beta3",
+        "bootstrap": "5.0.0-beta3",
         "choices.js": "^9.0.1",
         "medium-zoom": "^1.0.6",
         "nouislider": "^14.6.3",
