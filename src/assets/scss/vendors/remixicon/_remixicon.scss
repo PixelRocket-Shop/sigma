@@ -10,17 +10,17 @@
 */
 @font-face {
     font-family: "remixicon";
-    src: url("../fonts/remixicon.woff") format("woff");
+    src: url("@fonts/remixicon.woff") format("woff");
     font-display: auto;
   }
-  
+
   [class^="ri-"], [class*=" ri-"] {
     font-family: 'remixicon' !important;
     font-style: normal;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
   }
-  
+
   .ri-lg { font-size: 1.3333em; line-height: 0.75em; vertical-align: -.0667em; }
   .ri-xl { font-size: 1.5em; line-height: 0.6666em; vertical-align: -.075em; }
   .ri-xxs { font-size: .5em; }
@@ -37,7 +37,7 @@
   .ri-9x { font-size: 9em; }
   .ri-10x { font-size: 10em; }
   .ri-fw { text-align: center; width: 1.25em; }
-  
+
   .ri-24-hours-fill:before { content: "\ea01"; }
   .ri-24-hours-line:before { content: "\ea02"; }
   .ri-4k-fill:before { content: "\ea03"; }
@@ -2309,5 +2309,3 @@
   .ri-zoom-out-line:before { content: "\f2dd"; }
   .ri-zzz-fill:before { content: "\f2de"; }
   .ri-zzz-line:before { content: "\f2df"; }
-  
-  

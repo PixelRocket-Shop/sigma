@@ -4,6 +4,9 @@ node_modules/
 # Optional npm cache directory
 .npm
 
+# IDE
+.idea/
+
 # Optional eslint cache
 .eslintcache
 

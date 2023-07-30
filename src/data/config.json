@@ -8,8 +8,8 @@
         "footer": ""
     },
     "partials": {
-        "head": "head/head",
-        "navbar": "navbar/navbar-primary",
+        "head": "header/head/head",
+        "navbar": "header/navbar/navbar",
         "footer": "footer/footer"
     },
     "defaultImgAlt": "HTML Bootstrap Template by Pixel Rocket",

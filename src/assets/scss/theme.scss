@@ -18,8 +18,6 @@ Note: '~' in the import statement means the file is imported from the node_modul
 */
 
 
-
-
 /* Bootstrap Functions - DO NOT CHANGE ANYTHING IN HERE
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 @import '~bootstrap/scss/functions';
@@ -31,6 +29,8 @@ Note: '~' in the import statement means the file is imported from the node_modul
 /* Framework SASS Variables - GO HERE TO OVERRIDE BOOTSTRAP VARS.
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 @import 'abstracts/sass-variables';
+
+@import '~bootstrap/scss/maps';
 
 /* Framework Mixins
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
